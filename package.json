@@ -1,0 +1,12 @@
+{
+	"name": "com.tannerhbrewer.toolspackage",
+	"version": "1.0.0",
+	"displayName": "tannerhbrewer tools",
+	"description": "A tools package that can help setup a unity project easier.",
+	"unity": "2021.2.4f1",
+	"author": {
+		"name": "Tanner Brewer",
+		"email": "tannerhbrewer@gmail.com",
+		"url": ""
+	}
+}
